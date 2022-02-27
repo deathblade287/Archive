@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\avira\Documents\Skills\java_basic-course\Ex_Files_Learning_Java_Apps\Ex_Files_Learning_Java_Apps\Exercise Files\.metadata\.plugins\org.eclipse.jdt.core
+1248012755.index
+1642175237.index

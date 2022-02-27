@@ -1,0 +1,65 @@
+Bachealors degree in Computer science (through MIT) >> Masters in ? (maybe (if -- rare) ) >> some experience in data science (2 years) >> Machine learning enginear
+
+-----------------------------------------------------
+
+Responsibilities of a Machine Learning Engineer :- 
+
+    To study and convert data science prototypes. 
+    To design and develop Machine Learning systems and schemes. 
+    To perform statistical analysis and fine-tune models using test results.
+    To find available datasets online for training purposes. 
+    To train and re-train ML systems and models as and when necessary. 
+    To extend and enrich existing ML frameworks and libraries.
+    To develop Machine Learning apps according to customer/client requirements.
+    To research, experiment with, and implement suitable ML algorithms and tools.
+    To analyze the problem-solving capabilities and use-cases of ML algorithms and rank them by their success probability.
+    To explore and visualize data for better understanding and identify differences in data distribution that could impact model performance when deploying it in the real-world
+
+How to Become a Machine Learning Engineer :-
+1. Education
+	(a) Masters > Ph.D > BA (very flexible)
+	(b) Computer science - best degree to becom a ML engineer
+2. Companies
+	(a) Apple , Amazon , twitter , etc
+	(b) Mostly big firms
+3. Industries (that require Ml engineer as a job posting)
+	(a) IT
+	(b) Retails & Whole Sale
+	(c) Consulting and buisness - including fianance
+4. State and city (only USA) that has the hieghest job oppurtunities
+	(a) California
+	(b) New York
+5. Experience needed (in related fields) to land the job
+	(a) 2-3 years > 4-5 years > 0 years (you can land a job with 0 experience -- although very rare) > 5+ years
+
+Skills Required to be a Machine Learning Engineer :- 
+
+    Advanced degree in Computer Science/Math/Statistics or a related discipline.
+    Advanced Math and Statistics skills (linear algebra, calculus, Bayesian statistics, mean, median, variance, etc.)
+    Robust data modelling and data architecture skills.
+    Programming experience in Python, R, Java, C++, etc.
+    Knowledge of Big Data frameworks like Hadoop, Spark, Pig, Hive, Flume, etc.
+    Experience in working with ML frameworks like TensorFlow and Keras.
+    Experience in working with various ML libraries and packages like Scikit learn, Theano, Tensorflow, Matplotlib, Caffe, etc.
+    Strong written and verbal communications
+    Excellent interpersonal and collaboration skills. 
+
+Salary of a ml engineer:-
+    $146,085 - starting salary
+    Obviously it will increase throught ime and be much more in the start if you have experience in related fields or a Phd
+-------------------------------------------------------
+
+ - Best college for this is MIT period
+ - Best enviorment + students + marks + studies + practical apllications + etc
+
+MIT (my plan for choosing subjects in it -- whatever had a choice + compulsory) :-
+
+1. Mathanatics - Linear algebra
+2. Computation algorythms - Introduction to Computer Science Programming in Python , Introduction to Algorithms , Mathematics for Computer Science , Design and Analysis of Algorithms , Fundamentals of Programming
+3. Econmics - Principles of microeconmics , Econometric data science
+4. Introductory Probability and Statistics - Introduction to probability/Probability and random variables (depends on what i know then)
+5. Data science - Introduction to machine learning
+6. Project based - Seminar in Undergraduate Advanced Research , Research and Communication in Economics: Topics, Methods, and Implementation
+7. Elective subjects - Networks
+8. (a) Strategy and Information , (b) Market design , (c) International Trade --- Not options (have to do all 3 -- i don't understand this part)
+

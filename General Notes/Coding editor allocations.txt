@@ -1,0 +1,23 @@
+Google Colab - NO
+
+Spyder - Everything (mine - Ml,etc)
+Jupyter - Homework and sir teaching file (viewing mode ) + refrence to any homewore,etc
+Visual Studio Code (VS Code) - Outside stuff (tkinter and buttons and all + Viewing the DS course files)
+pycharm - None
+
+------------------------------------------------------------------------------------------------------------
+
+NOTE : BELOW ALLOCATIONS ARE FOR ML -- also the things are in order
+
+Jupyter - Data munching / cleaning (removing NA's and all) -- Only for checking + munching (cleaning) data - for clearing/munching data , not for actual program - MINE
+
+
+Spyder - Everything (charts , plots , securing , especially the real programs , etc)
+Pycharm - Some extra features (in the spyder project sonly) --- VARIABLE REDIFINE , FULL REPLACE , ETC
+
+
+Google colab - Actually presenting that data (to someone else) ----------- Pandas + MATPLOTLIB -- visualization -- interactive -- (only for showcasing and sharing product) 
+
+
+
+# Visual Studio code (VS Code) - Outside stuff (tkinter and buttons and all + Viewing the DS course files - with csv preview)

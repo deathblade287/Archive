@@ -1,0 +1,10 @@
+package GUIS;
+
+import javax.swing.JFrame;
+
+public class try1 {
+	 JFrame frame = new JFrame("Test Frame");
+	 frame.setSize(500,400);
+	 frame.setVisible(true);
+	 frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+}

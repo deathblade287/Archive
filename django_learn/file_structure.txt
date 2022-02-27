@@ -1,0 +1,5 @@
+manage.py => run commands for our project
+inner_folder/__init__.py => Tells python that this folder contains python files (dunder init)
+inner_folder/wsgi.py & asgi.py => Provide hooks for web servers such as nginx and apache when django is running on a love website
+inner_folder/settings.py => COnfigure django project
+inner_folder/urls.py => Routes web requests based on URL

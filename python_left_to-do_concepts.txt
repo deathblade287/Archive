@@ -1,0 +1,85 @@
+## LEFT : 
+pycharm editor
+"pythonic"
+file I/O
+Python package index
+modules/packages, concept + how to create
+python interpreters
+python standard library (basic, common of common libraries)
+testing (unit-test)
+Dunders
+iterators/generators/decorators
+OOP vs FP (method-overloading)
+PEPs
+Virtual Enviorments
+	virtualenv
+	venv
+	pipenv
+	poetry???
+	conda
+	docker???
+popular libraries
+	six
+	PyQT
+	asyncio
+	**tkinter
+	requests
+	pillow
+	Pygame
+CI/CD
+	Travis CI
+	Jenkins
+	Gitlab CI
+	Circle CI
+
+computer science topics (later learn)
+	algorithms
+	data structures
+	time complexity
+	space complexity
+kubernetes????
+
+
+## EXTRA (all devolopers, not common to python)
+git/github/gitlab (version control)
+debugging
+how to read documentation
+
+
+## CARREEER OPTIONS with (only or mostly) python
+Web Devolopment (backend + servers)
+	ASGI vs WSGI??
+	Django
+	Flask (Easier, lightwieght)
+Web parsing/scraping/crawling
+	Beatiful SOup
+	Scrapy
+	Selenium
+Test Automation
+	PyTest
+	Selenium
+	Robot Framework
+	Unittest
+Scripting
+	System Admin
+	DevOps
+	Software Devolopers (Other Languages Aswell)
+	Etc...
+Data Science/Analysis (People that can understand data, give us information about data... making meaning out of data)
+	Bokeh
+	Matplotlib
+	Seaborn
+	SciPy
+	Pandas
+	NumPy
+	Data Engineering (Big Data... Tools Can Also Be Used In Java/Scala)
+		Apache FLink
+		Hadoop/MapReduce
+		Apache Spark
+		Apache Kafka
+		APache Hive
+Machine Learning (Uses Data to create models (functions) that allows the machine to predict)
+	Scikit-Learn (Pre-built functions to do classification, regression, etc.)
+	TensorFlow  (Deep Learning)
+	Keras (High-Level Tool... On Top Of Tensorflow)
+	PyTorch (Deep Learning)

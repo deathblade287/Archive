@@ -1,0 +1,9 @@
+# Step 0: Problem Statment + Basic Finding & Cleaning Of Data
+# Step 1: Visualize Data, Understand It, Try Dropping & Different Algo's
+** # Step 2: Drop The 'y' Column
+?? # Step 3: Drop Useless Columns + Features (Make Program Try All Combinations Of Dropping, & Then Give Hieghest Acuuracy One)
+** # Step 4: Label Encoder + Scaling
+# Step 5: Choose Algorythem + Create Training & Test Data + Run Algorythm (Final)
+
+# Product: Predict New Value For Customer
+

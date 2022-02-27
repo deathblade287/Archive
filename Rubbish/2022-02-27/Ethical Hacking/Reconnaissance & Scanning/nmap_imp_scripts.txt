@@ -1,0 +1,7 @@
+Scans : 
+-sS/sT/sA: TCP SYN/Connect()/ACK
+-sV :Probe open ports to determine service/version info
+-o (Target OS Detection)
+
+Extra Options : 
+-Pn: Treat all hosts as online -- skip host discovery

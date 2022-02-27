@@ -1,0 +1,21 @@
+Step by step guide for creating new project
+
+1. Think and brainstorm about the usage for the project
+2. Note down the main features you want ot add in that project in OneNote jsut as a start for visualizing
+3. After the objective is clear - put all those task neatly in trello for seeing the progress clearly ---- Also create an issue card in trello
+4. Now create a new directory as "Project_Project Number" --- Through git
+
+IMPORTANT : CREATE A NEW ENVIORMENT FOR EVERY PROJECT AFTER CREATING THE DIRECTORY OTHERWISE IT WILL BE COMPLETELY USELESS
+
+5. Now CD into that directory in Aaconda powershell prompt (for running) and Git Bash (for logs and creating files)
+6. Inside that directory create a git init as well as a .gitignore file through git bash
+7. Also create - a) Features.txt
+		 b) Project_snippet.py --- Inside atom and keep it open
+		 c) Main.py -- For the main code and possibily all the code
+8. Then create a "saved_tests-results" folder inside the project folder --- through git
+9. Save all the tests and important results in that folder
+
+# ----- NOTE : KEEP TRACK OF THE GIT LOGS AND START WORKING
+
+10. Also open a blank chrome page as well as the documentation page of all the libraries you are using just at the side
+11. Use the single search Google app for quick searches and saving images (cover / logo / etc)

@@ -1,0 +1,7 @@
+# To close tkinter program
+quit
+exit
+# Research topics
+Cloud
+DS and ML - (What to learn 1st -- actual learning)
+Excel reading and understanding

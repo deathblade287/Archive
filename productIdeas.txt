@@ -1,0 +1,26 @@
+ - Combine Webscraping Library With Hacking (Browser Operations)
+
+## Big Product Ideas (Service) -- Real Life Problems, Health Care, Etc.
+## Only Ideas...
+
+Real Life Problems : 
+ - Finance Manager (monthly report [profit, savings, expenditure, tax] , buying targets, ml algo for 
+ 	savings & recomending schemes, stock options)
+ - Child's Educational progress (how they are improving, test scores, etc.)
+ - Fitness (Motivation, statistics & fitness plans)
+ - device tagger (locate your things - bottle, books, bag, etc. [3d printed hardware] )
+ 
+ 
+ Healthcare Services  :
+ 
+ Questions...
+ - What is one thing you have to do manually everyday as a doctor that is irrittating?
+ - ML(AI) telling medciences V/S dcotor;
+ 	- who will u trust?
+ 	- what will be easier for u?
+ 	- who will the patients trust?
+  - Writing vs priscribng through a tablet (Search medcines, see thier values, what they cure, etc.)
+  
+ Products...
+ - App that lsitds all medications in good UI... search & prescribe medication, see info abt them, ml suggestions, 
+ 																description option, print prescription

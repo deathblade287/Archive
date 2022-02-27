@@ -1,0 +1,18 @@
+label_encoder_auto (Label Encoder)
+
+os.chdir(r"/home/deathblade287/Dropbox/ML/Projects/Insurance_Premium")
+data = pd.read_csv("insurance-premium.csv")
+
+print(data)
+print(type(data))
+print("\n\n\n\n\n")
+
+v, v2 = label_encoder_auto("insurance-premium.csv",
+                           path=r"/home/deathblade287/Dropbox/ML/Projects/Insurance_Premium")
+print(v)
+print(type(v))
+
+---------------------------------------------------------------------------------
+
+
+

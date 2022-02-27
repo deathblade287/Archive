@@ -1,0 +1,10 @@
+# AI/Chatbot/Machine learning and natural language
+
+# PCM = Pulse Code Modulation
+# Digitization of voice
+# NLP = Natural language Processing
+# Converts sentences into tokens
+# These tokens are given/assigned values
+# These tokens have pre-defined responses
+# When a new sentence comes, ML algorithm runs and finds relevant sentences and give corresponding responses
+# IBM Watson for chatbot

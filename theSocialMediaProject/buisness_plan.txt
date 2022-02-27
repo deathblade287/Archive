@@ -1,0 +1,39 @@
+1. Social Networks (Facebook, LInkedin) - Connect With People
+2. Media Sharing Networks (Instagram) - Upload, Share, Comment, Etc. On Medias Like Videos, Images, Text, Etc.
+3. Social Media Blogs (Youtube, Twiter, Pintrest) - Get COntent Online
+4. Community & Discussion Forums (Reddit, Quora) - Forum To Discuss Topics 
+5. Customer Review Platforms (tripadvisor, trivago) - Read ONline Reviews ABout Products, PLaces, ETc. From DIfferent Customers
+
+
+
+=> Figure out the concept of your app (Product's Value, Target Audience, App's Functionality)
+
+=> Monitzation Is ALmost Solely Through Advertisment
+
+Essential Features : 
+ - Signup
+ - UserProfile - User Details & Profile Customization Features
+ - News Feed
+ - Chat
+ - Photo & Video Sharing
+ - Comfortable Search Bar
+ - Post Creation (Easily... No Restrictions)
+ - Push Notifications ??
+ 
+ 
+Purpose
+Market Research & Competitive Analysis
+UI/UX Design
+Devolpment & Quality Assurance (Software Devolopment - Backend, Storage, API)
+Publishing & Marketing
+Maintainance & SUpport (24/7 Support, New Updates & Features, Etc.)
+
+
+
+
+When you use this app, you’re in full control. No longer do you have to squish important sentiments down into a 280 character limit. And gone is the standard, one-size-fits-all approach to design and functionality. In your own, dedicated community space, you’ll have way more control over the design, look and feel.
+
+Using this app allows you to have your own space away from all the noise and distractions on other busy social media platforms. There are no ads, people ranting about the latest news headlines or memes dragging your audience’s attention away from your content.
+ 
+ 
+

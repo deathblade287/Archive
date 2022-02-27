@@ -1,0 +1,4 @@
+MS sql Server (connection string) : Server=localhost;Database=master;Trusted_Connection=True;
+Log Floder : C:\Program Files\Microsoft SQL Server\150\Setup Bootstrap\Log\20201029_184659
+SQL engine : C:\SQL2019\Developer_ENU
+Resources : C:\Program Files\Microsoft SQL Server\150\SSEI\Resources

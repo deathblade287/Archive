@@ -1,0 +1,12 @@
+https://www.udemy.com/course/complete-ethical-hacking-bootcamp-zero-to-mastery/learn/lecture/22279506#questions
+
+TCP & UDP - Protocols For Sneding Bits Of Data (Packets)
+          - Not The Only Ones, But The Most Famous
+
+TCP : Transmition Control Protocal (Checks All Packets & Whether User Recieved Them)
+  1. Syn (Snchronized Sequence Number... CLients Want To Interact With Server)
+  2. Syn/Ack (Server Replies Back)
+  3. Ack (Client Ackowlodges Server)
+
+UDP : User Data Protocol
+   - Same Thing As TCP But It Doesnt Check Any Errors - Thus Faster, But More Prone To Errors  

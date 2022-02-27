@@ -1,0 +1,49 @@
+Join : 
+
+select players.Name, players.Age, batting.Sixes from batting inner join players on players.name=batting.name
+select players.Name, players.Age, batting.Sixes from players join batting on players.name=batting.name
+select players.Name, players.Age, batting.Sixes from players left join batting on players.name=batting.name
+select players.Name as PlayersName, players.Age, batting.name as BattingName, batting.Sixes,batting.fours from players right join batting on players.name=batting.name
+select players.Name as PlayersName, players.Age, batting.name as BattingName, batting.Sixes,batting.fours from players left join batting on players.name=batting.name
+select players.Name, players.Age, batting.Sixes, from players full join batting on players.name=batting.name
+
+select players.Name, players.Age, batting.Sixes, from batting inner join players on players.name=batting.name
+select players.Name, players.Age, batting.Sixes, bowling.Wickets from batting inner join players on players.name=batting.name inner join bowling on Players.name=bowling.Name
+select * from batting inner join players on players.name=batting.name inner join bowling on Players.name=bowling.Name
+
+select * from players union select * from batting
+
+select name from players union select name from bowling
+
+
+-------------------------------------------------------------------------------------
+Basic (like , % , _) : 
+
+
+'order by is used to sort the result'
+'order by can be applied on multiple cols with ascending or descending order'
+'asc stands for ascending and desc stands for descending'
+
+select * from Players order by age
+select top 3 * from players
+select * from Players order by age, matches
+select * from Players order by age, country desc, matches
+
+'like operator which helps in slicing strings - it is like filter'
+'% refers any number of characters from 0'
+'_ (underscore) refers single character'
+'[] refers to any 1 value given in the brackets'
+'[start-end] chooses values from the range'
+select * from Players
+insert into Players (name, age, matches,country) values ('Ishan',20,22,'India')
+
+select * from Players where name like 'a%'
+select * from Players where name like '%r'
+select * from Players where name like '__r%'
+select * from Players where name like '%r'
+select * from Players where name like '%'
+select * from Players where age like '3%'
+select * from Players where name like 'aj[io]'
+select * from players where name like 'aj[a-e]%'
+select * from players where age like '2[0-9]' order by age
+

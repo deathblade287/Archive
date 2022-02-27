@@ -1,0 +1,5 @@
+1. Reconnaissance
+2. Scanning
+3. Gaining Access
+3. Maintaining Access
+4. Covering Tracks

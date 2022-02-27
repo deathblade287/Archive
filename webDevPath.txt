@@ -1,0 +1,76 @@
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+			##################################### Web Dev Roadmap ##################################### 
+
+Coding Roadmap (Current, Constantly Updated & Full) : 
+					https://docs.google.com/document/d/156NSBYP88c5YazBTohmS3upexPFUH08SX8bmGpmiovA/edit
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+			##################################### OLD... ARCHIVED ##################################### 
+
+Course To-Do : 
+	 - Continue With Course
+	 - Take Notes (& Watch Videos) About The Internet Concepts & History [[Session Saved]]
+	 - Add the extra things learnt in LinkDin Learning HTML Course in "Course Resources" (MD) File 
+	 - CSS Full Notes in "Course Resources" (MD) File
+
+
+Web Dev Projects : [[ https://todoist.com/app/project/2267275541 ]]
+
+^^^^^
+
+Other Coding (Python, ML, Etc) Projects : N/A
+
+Video Editing : Do Course (DaVinci Resolve) Whenever Want To...
+Java : Pause
+Digital Marketing : Pause
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+ - Start (& 'Focus On') : "The Complete Web Developer in 2021: Zero to Mastery"
+	 - **Start
+	 - **See "All The Other Resources"
+	 - **Follow Along (Do all Quizes, Excersizes & projects)
+	 - **Keep Practicing... While Learning & After It
+
+	 - **Explore More About "Rubber Duck Debugging"
+
+------------------------------------------------------------------------------------------------------------------------------------
+ - Learning Java (On Hold For Right Now)
+	 - Figure out the Window Builder Problem!
+	 - Continue Java Linkdin Learning Course (after solving above error)
+	 - See (if worth it) the udemy course on Java : ' https://www.udemy.com/course/java-development-for-beginners-learnit/ '
+
+------------------------------------------------------------------------------------------------------------------------------------
+Other : 
+ - Continue Learning 
+	i) GIT (Will Most Probably Be Covered in "Web Devoloper" Course)
+	ii) Web Disgn (When done with "Web Devoloper" Course, Explore More options... Advanced Codes, More Languages & API's)
+
+Full Extra : 
+ - Other tasks in "Microsoft To-Do
+
+ - Pickup the Video Editing Course again (if bored of coding things, otherwise continue)
+------------------------------------------------------------------------------------------------------------------------------------
+https://docs.google.com/document/d/1U7nA22NKntcxIT6aH25CkpYEUJhCaX4nCKv7zUSZ4ks/edit
+https://www.linkedin.com/learning/me/saved?u=82999986
+------------------------------------------------------------------------------------------------------------------------------------
+
+1hr 28m 51s - Left
+
+ - If inside while loop... Boolean value of a specific var, inside a whileloop??
+
+	1. Clean Up Notes & Understanding of Java Course till now... **also, test & try debugging + the problem above
+	5. Setting up JAVA enviorment in sublime text 3
+	2. Find course on how to "google" or research & Find Answers (will help when stuck in coding [genneraly too])
+	3. Download Neovim again
+	
+
+Points : 
+ a) Continue with JAVA (clean-up too as mentioned above) & Wordpress Web Devolopment (maybe even try HTML/CSS/.JS & try to embed it into blog)
+ b) Fill Site Content & Build it (while also continuing course, ofc)
+^^ c) Set-Up Sublime Text 3 for JAVA & Python Devolopment
+ d) Eclipse Editor
+ e) Cutomize IntelliJ for JAVA coding
+**[Started] f) Drop Digital Marketing for right now... If bored with all the coding & Web Design, then start "Video Editing - DaVinci Resolve"

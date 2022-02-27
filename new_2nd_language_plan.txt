@@ -1,0 +1,2 @@
+1. javascript (i can make ui because it iwll be front end language + everything in web basically covered except something like django)
+2. c++ (good combination with python in server-side or desktop application + might help in ethical hacking)

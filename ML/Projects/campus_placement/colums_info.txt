@@ -1,0 +1,9 @@
+ssc_p => senior secondary percentage (class 12)
+hsc_p => high school percentage (class 10)
+hsc_s => stream/specialization
+degree_p => degree percentae (college final exam marks in percent)
+degree_t => Major (Topics choosen in degree)
+workex => work experience
+etest_p => company/college online test percentage
+specialisation => specialisation
+mba_p => mba percentage

@@ -1,0 +1,21 @@
+
+
+
+
+
+######## ADD README.TXT/MD TO BIGGER PROJECTS
+######## Put good projects on github
+
+
+
+ - flask (UI)
+ - encyptor (password)
+ - windows baground service
+
+
+
+
+ - **print a table in pasword manager
+ - check & send email at the EOD (AMAZON SCRAPER)
+ - EWNCYPTOR (OWN VALUE)
+ - FLASK SYNTAX - RETURN & GET INPUT THROUGH HTML...

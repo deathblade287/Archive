@@ -1,0 +1,16 @@
+ - solve flask app error by passing 'href' tag in html with python generated link (f-string)
+ - try docker
+  
+  
+  
+  - power toys alternative for linux
+  - docker work _ download + includ in projects
+  - UI for another big project
+  - transfer domain app ui to actuall module ui
+  - python dunders
+  - OOP
+ 
+ IDEA (PROJECT SHIFTING) : 
+ 
+ >> DOCKER + PIP + NPM -- DOWNLAOPD ALL SYSTEM REQUIRTMENT (TXT FILE + SCRAPE PYTHON FOR IMPORTS), RUN PROGRAM, CHECK IF TI WORKS, DOCUMENTS ERRORS
+ 	BASICALLY SETUP WHOLE PROJECT FOR A DIFF COMPUTER, maybe save as a file format (json, yaml, custom) so that ppl can put config in cloud then just run it 

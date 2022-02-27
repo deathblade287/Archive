@@ -1,0 +1,10 @@
+CTRL + SHIFT + F: search for any stings across all of the files in the project
+SHIFT + SHIFT: search for classes and functions with your project or other packages
+CTRL + SHIFT + C: Copy full path for a selected file
+CTRL + B: Search for usage in the code for currently selected class, function, or variable
+ALT + ENTER: Import packages
+CTRL + SHIFT + ALT + J: select same string occurrences in the current file and yield a cursor on each of them
+SHIFT + F6: Allows refactoring of file, class, function and variable names across the entire project
+CTRL + D: Duplicate line or selection
+F2: navigate between code issues
+SHIFT + F9: debuging

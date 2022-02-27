@@ -1,0 +1,16 @@
+1. javascript : web, UI, front-end/back-end, famous, etc.
+	a. u can learn more libraries and languages for web - react, node, databases, ruby, haskell, etc.
+1. Arch + Fedora + garuda KDE install on VM	
+
+2. Robotics with python
+2. Complex Databases (psf, videos, etc.) with python + any web backend language
+
+3. Rust (c++ more secure) : windoes desktop applications, faster, low-level, robotics, games
+	a. When doing research more on differences of c/c++ & rust + what will be more sued in the future
+	b. if choose c++ then after basics, start integrating with python robotics
+	
+3. java/c#/scala : mobile, cross-platform, etc / windows, games(both are almost the same...)
+
+
+
+####### (python integration with all)

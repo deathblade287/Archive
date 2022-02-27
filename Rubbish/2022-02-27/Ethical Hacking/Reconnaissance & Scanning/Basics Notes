@@ -1,0 +1,11 @@
+IP (inet) - Where?
+Mac (ether) - Who?
+
+::: ping, whois, nslookup, ipingo.info (site), whatweb
+
+whatweb basic options...
+
+--a=level (agression level)
+-v (verbose answer)
+--no-errors (no errors, if ip address in a group is not found)
+--log-verbose=filename (log the answer into a file)

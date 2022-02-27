@@ -1,0 +1,14 @@
+1. Continue With Everything I Am Already Learning...
+  a) Python (Projects & Libraries [Flask, Django, OS, Etc.)
+  b) ML/AI
+  c) Ethical Hacking
+  d) Full Stack Web Devolopment
+
+2. Learn Another Language
+  a) C/C#/C++ (Game Dev & Windows App UI)
+  b) ruby/ruby on rails
+  c) Java
+  d) golang
+  e) Research More & Learn WHat Is Famous AT That Time
+
+3. API, PLugins (Comman Apps, Browser, Etc.) & Bots
